@@ -9,5 +9,5 @@ Totem featured 15 levels of puzzles necessitating different combinations of each
 
 Screenshots from game play
 ![Screenshot1](https://github.com/tomfkearney/Totem/blob/master/totemScreen1.png)
-![Screenshot2](https://github.com/tomfkearney/Totem/blob/master/totemScreen1.png)
-![Screenshot3](https://github.com/tomfkearney/Totem/blob/master/totemScreen1.png)
+![Screenshot2](https://github.com/tomfkearney/Totem/blob/master/totemScreen2.png)
+![Screenshot3](https://github.com/tomfkearney/Totem/blob/master/totemScreen3.png)
